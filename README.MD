@@ -13,7 +13,8 @@ cd nodepay-automation
 pip3 install -r requirement.txt
 ```
 Get proxy, use [this](https://github.com/101parallax/ProxyScrapper/) to get free proxy 
-Save it to proxies.txt 
+
+Save it to proxies.txt
 run the bot with
 ```
 python3 nodepay.py
