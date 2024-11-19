@@ -1,5 +1,8 @@
                                     HOW TO RUN THE CODE
 ==================================================================================================
+sign up here https://app.nodepay.ai/register?ref=wkeD70PCaiMlpIA
+==================================================================================================
+
 Git clone https://github.com/101parallax/nodepay-automation.git
 cd nodepay-automation 
 pip3 install -r requirement.txt 
