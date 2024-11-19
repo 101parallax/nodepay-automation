@@ -1,4 +1,4 @@
-# BOT GRASS AUTO FARMING
+# BOT NODEPAY AUTO FARMING
 ## sign up [here](https://app.nodepay.ai/register?ref=wkeD70PCaiMlpIA)
 ## HOW TO RUN THE CODE
 ### USE AT UR OWN RISK I AM NOT RESPONSIBE FOR THE OUTCOME
