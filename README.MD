@@ -14,5 +14,8 @@ pip3 install -r requirement.txt
 ```
 Get proxy, use [this](https://github.com/101parallax/ProxyScrapper/) to get free proxy 
 Save it to proxies.txt 
-run the bot with ```python3 nodepay.py```
+run the bot with
+```
+python3 nodepay.py
+```
 ### Get password for the bot from [here](https://t.me/+3NQanL5EQ2VkMDBl)
