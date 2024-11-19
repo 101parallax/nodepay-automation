@@ -1,5 +1,5 @@
-                           HOW TO RUN THE CODE
-==========================================================================================
+HOW TO RUN THE CODE
+====================================================================================
 Git clone https://github.com/101parallax/nodepay-automation.git
 cd nodepay-automation
 pip3 install -r requirement.txt
