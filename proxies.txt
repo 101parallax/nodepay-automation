@@ -1,1 +1,1 @@
-http:ip:port
+http://ip:port
